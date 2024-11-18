@@ -1,0 +1,38 @@
+-----BEGIN PGP SIGNED MESSAGE-----
+Hash: SHA512
+
+Origin: https://diyguy88.github.io
+Label: https://diyguy88.github.io
+Codename: current
+Date: Mon, 18 Nov 2024 03:50:01 UTC
+Architectures: arm64
+Components: main
+Description: Perle GiOS Router packages repository
+MD5Sum:
+ 32c7be25f9a9f6fc062abeb2dcb83cf3 113777 main/binary-arm64/Packages
+ 15b2903e60d61c30bf5f4dae8fabe708 35243 main/binary-arm64/Packages.gz
+ 637401716677e3d16a76b805d4bd877b 156 main/binary-arm64/Release
+SHA1:
+ 30e66affca3f41d079f718bac07ad46db066353d 113777 main/binary-arm64/Packages
+ da446e3497183a2e017e9821911b934a88cf2cb2 35243 main/binary-arm64/Packages.gz
+ 8f3bfe2b39fb2e10f5faca3ef5eb6af3302793ab 156 main/binary-arm64/Release
+SHA256:
+ d56a10bd96f86ea1a369f20d85a0aa1072c7d345d42896fca2d820c63c5c39df 113777 main/binary-arm64/Packages
+ b1b3917cf73b61089a276319056a2ac6fd7abdcb54c96ebefbbb1ba7a2b27979 35243 main/binary-arm64/Packages.gz
+ ddf47d1bc9293196fa76b569fb649dfa2207e41b2843ea92bb3949c0be697d21 156 main/binary-arm64/Release
+-----BEGIN PGP SIGNATURE-----
+
+iQIzBAEBCgAdFiEEx79DKYZjYwFei7mmO3kHC44j6SgFAmc6uWkACgkQO3kHC44j
+6Sgi8w/+JvhG0eB+Q5rlKBYl2Lqyt8xigmhbWr6PhFoEfGUvCyP3+jOm7DVAtNAD
+JKaoqo+NubCdDinNYLwXzWFFyQboBUuOyhEyTvRb1PprwOJTseHotTLlhHta8kQO
+UMOVpwgN7gBxoibvVDP4jIb5K6j+Q4KWUuQlxhrmk8FuOXlpiETL9z0HDksFY1Jn
+/EB9wIk+a1mKEhFZbUJitCR8DDMYJ2L+kG8Z6k75pywQqxvBGmB3+NzyMhtv2qbC
+4AclKIJJ3mrgngmLNLsGnFfRmgN3Inc1uI8dS8tA3XIyML4awCEI83ITcsltj1F9
+dg563gZxxSDbIApnKG99cmK1rhYhdVLQsdb3CtqaWHxQdFKTE62IDHnJQvwPAjMS
+o6aGAwmY1enQdqcGgr+LtgRoe3HmmP7xX5hZDz3jbJ/8kidn+SIPLByo+aEM3F+m
+/SSziTJNu896KpVCcCVRsYlHeQdoDUMp/gY7mUk9Phj4pZ1/7nodndNl5IDgtqkb
+tnuUQnBY7CWmARWCkPnyav2M2mRQP8gYGgnlQ+y6fVH0MBkAux1w06sYWfFfPcE9
+vtMMJlvYR5kt3vYMtfhLXZGvp3rQAc+DnduyMNFvmKoVYinQzYA1R3FrTful3b+O
+jE9Gfm5tY4xwvZLHogF9GZhHMoqM/pQA6wXCp23X0dFiIy+FpYk=
+=EG+r
+-----END PGP SIGNATURE-----
